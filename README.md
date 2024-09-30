@@ -23,11 +23,11 @@ You can view this project directly through GitHub Pages. Follow the steps below 
 6. After setting this, a link will be generated under the **GitHub Pages** section. Share this link with others to allow them to view the project.
 
 Alternatively, here is the link to directly view the webpage on GitHub Pages:
-[Your GitHub Pages link goes here]
+[]
 
 ## How to Run the Project Locally
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ajaynune2003/using-html-css-webpage.git
 2. cd your-repo-name
 
