@@ -23,7 +23,7 @@ You can view this project directly through GitHub Pages. Follow the steps below 
 6. After setting this, a link will be generated under the **GitHub Pages** section. Share this link with others to allow them to view the project.
 
 Alternatively, here is the link to directly view the webpage on GitHub Pages:
-[]
+[https://ajaynune2003.github.io/using-html-css-webpage/start.html]
 
 ## How to Run the Project Locally
 1. Clone the repository:
