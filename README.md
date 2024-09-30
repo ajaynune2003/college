@@ -29,5 +29,14 @@ Alternatively, here is the link to directly view the webpage on GitHub Pages:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ajaynune2003/using-html-css-webpage.git
-2. cd your-repo-name
+2. cd your repo
+3. Open the index.html file in your browser to view the project locally.
+
+### Instructions for GitHub Pages:
+1. Go to your GitHub repository.
+2. In the repository settings, scroll down to the "GitHub Pages" section.
+3. Under "Source," select the branch and folder where your HTML is stored.
+4. Once configured, GitHub will provide a URL where your site can be accessed.
+
+This will help others view your project easily through GitHub Pages!
 
